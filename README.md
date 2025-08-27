@@ -9,7 +9,6 @@ A clean starting point for a Flutter application.
 * **DevTools**: 2.31.1
 * **Engine**: c4cd48e186
 * **Framework revision**: 54e66469a9 (2024-04-17 13:08:03 -0700)
-* **Flutter repo**: [https://github.com/flutter/flutter.git](https://github.com/flutter/flutter.git)
 
 ## Packages
 
