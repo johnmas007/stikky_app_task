@@ -17,31 +17,19 @@ A clean starting point for a Flutter application.
 * `provider: ^6.0.5`
 * `flutter_share: ^2.0.0`
 
-## Getting Started
+## TO RUN THE APP
 
-1. Ensure Flutter is installed and on the **stable** channel.
-2. Fetch dependencies:
+1. Fetch dependencies:
 
    ```bash
    flutter pub get
    ```
-3. Run the app:
+2. Run the app:
 
    ```bash
    flutter run
    ```
 
-## Project Scripts (handy)
+## Developer
 
-```bash
-# Analyze & format
-flutter analyze
-flutter format .
-
-# Run tests (if any)
-flutter test
-```
-
-## Notes
-
-* This README intentionally removes boilerplate links and keeps only what’s essential for setup and maintenance.
+* JD.
