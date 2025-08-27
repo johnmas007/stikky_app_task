@@ -1,6 +1,6 @@
 # Stikky App
 
-A clean starting point for a Flutter application.
+A flutter task for stikky app.
 
 ## Tech Stack
 
